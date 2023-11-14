@@ -4,4 +4,4 @@ Chương trình duyệt lần lượt các link sách, tiến hành download và
 File excel chứa thông tin sách và link download 
 
 File Program là source code tải các sách có link trong file excel
-  Các sách không có link sẽ được note lại vào file khong_the_tai.txt được tại ra khi chạy Program.py
+  Các sách không có link sẽ được note lại vào file khong_the_tai.txt được tạo ra khi chạy Program.py
